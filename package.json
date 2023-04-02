@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "data",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diwakarsharma2216/data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diwakarsharma2216/data/issues"
+  },
+  "homepage": "https://github.com/Diwakarsharma2216/data#readme"
+}
