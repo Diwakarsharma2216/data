@@ -730,6 +730,22 @@
       "img": "https://m.media-amazon.com/images/I/61J2gr1xbLL._AC_UL320_.jpg",
       "title": "Dettol Liquid Handwash Refill – Skincare Hand Wash- 1500ml | pH Balanced | 10x Better Germ Protection",
       "price": 209
+    },
+     {
+      "id": 9,
+      "quantity": 1,
+      "img": "https://m.media-amazon.com/images/I/710+M61cX4L._AC_UL320_.jpg",
+      "title": "Diverse Men's Regular Fit Formal Shirt",
+      "price": 1199,
+      "categroy": "cloth"
+    },
+    {
+      "id": 10,
+      "quantity": 1,
+      "img": "https://m.media-amazon.com/images/I/71JnC0xndnL._AC_UL320_.jpg",
+      "title": "Maggi 2-Minute Masala Instant Noodles, 280 grams Pouch",
+      "price": 55,
+      "categroy": "food"
     }
   ]
 }
